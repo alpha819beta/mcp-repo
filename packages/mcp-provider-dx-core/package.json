@@ -65,7 +65,7 @@
     "eslint-config-salesforce-typescript": "4.0.1",
     "@salesforce/prettier-config": "^0.0.3",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.3"
+    "typescript": "^5.9.3"
   },
   "publishConfig": {
     "access": "public"
